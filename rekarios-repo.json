@@ -2,7 +2,7 @@
   "apps": [
     {
       "beta": true,
-      "bundleIdentifier": "com.liberty.rekarios",
+      "bundleIdentifier": "com.liberty.reKarios",
       "developerName": "exDev, mlostek, sc0rps",
       "downloadURL": "https://github.com/mlostekk/Cloudy/releases/download/reKairos_v16.0.0(168)/reKairos-v16.0.0.168.ipa",
       "iconURL": "https://raw.githubusercontent.com/mlostekk/Cloudy/develop/Media/reKairos/icon.png",
@@ -15,7 +15,7 @@
       "subtitle": "An Fortnite iOS revival project based on GeForce Now",
       "tintColor": "15aad9",
       "version": "16.0.0cpb",
-      "versionDate": "2021-03-17",
+      "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "Initial release."
     }
   ],
