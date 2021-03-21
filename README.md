@@ -7,11 +7,6 @@
 
 2. Download **AltServer** for Windows 10 from here: https://altstore.io/
 
-3. After installing **AltServer**, connect your device with the PC and move the `.IPA` file onto your device using iTunes to save it somewhere you can navigate to in the Files App.
-
-> Alternatively, you can directly download the [_latest release_](https://github.com/mlostekk/Cloudy/releases) from our GitHub on your device via Safari and save it in the Files App.
-![](Media/filesapp.png)
-
 4. Open **AltServer**, and it will open in the hidden icon tray located on the right side of your taskbar (the button that looks like an upside arrow, somewhere beside the volume speaker.) and click the **AltServer** icon (it looks like a prism or diamond ◇).
 ![](Media/statusbar_win.png)
 
@@ -42,8 +37,6 @@
 
 2. After installing **AltServer**, connect your device with the Mac and move the `.IPA` file onto your device using iTunes to save it somewhere you can navigate to in the Files App.
 ![](Media/filesapp.png)
-
-> Alternatively, you can directly download the [_latest release_](https://github.com/mlostekk/Cloudy/releases) from our GitHub Repository directly on your device (via Safari) and save it in the Files App.
 
 3. Open **AltServer**, and it will open in the hidden icon tray located on the right side of your taskbar (the button that looks like an upside arrow, somewhere beside the volume speaker.) and click the **AltServer** icon (it looks like a prism or diamond ◇).
 ![](Media/statusbar_mac.png)
