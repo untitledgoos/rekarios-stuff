@@ -1,4 +1,4 @@
-# reKarios-stuff, the semi-official guide for installing reKarios, also a AltStore Beta repo.
+# reKairos-stuff, the semi-official guide for installing reKairos, also a AltStore Beta repo.
 ### Windows
 
 1. Make sure you have the downloadable binary version of [iTunes](https://www.apple.com/de/itunes/) and [iCloud](https://support.apple.com/de-de/HT204283) installed on your PC.
